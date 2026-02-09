@@ -1,0 +1,8 @@
+{
+  "name": "VideoBank",
+  "description": "Monetize your expertise. Record, tag, and sell videos of your work for AI training.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
